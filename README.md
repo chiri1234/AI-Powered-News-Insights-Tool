@@ -1,1 +1,1 @@
-# News_Research_Tool_Project
+# AI-Powered News Insights Tool
